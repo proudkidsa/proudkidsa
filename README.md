@@ -2,6 +2,10 @@
 
 <h3 align="center">Software Development Student | Flutter Developer | Mobile & Web Developer</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=3FB950&center=true&vCenter=true&width=700&lines=Software+Development+Student;Flutter+Developer;Building+Mobile+%26+Web+Applications;Always+Learning+New+Technologies" />
+</p>
+
 I'm a Software Development student at Mangosuthu University of Technology (MUT) with a passion for building modern mobile and web applications. I enjoy solving real-world problems through software and continuously improving my skills as a developer.
 
 ---
