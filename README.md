@@ -49,6 +49,11 @@ A Flutter & Firebase application that allows university students to place food o
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=proudkidsa&layout=compact&theme=github_dark&hide_border=true" height="180"/>
 </p>
 
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=proudkidsa&theme=github-dark&hide_border=true" />
+</p>
 
 Thanks for visiting my profile! ⭐
 
