@@ -1,6 +1,6 @@
-# Hi 👋, I'm Sizwe Langa
+<h1 align="center">Hi 👋, I'm Sizwe Langa</h1>
 
-## Software Development Student | Mobile & Web Developer
+<h3 align="center">Software Development Student | Flutter Developer | Mobile & Web Developer</h3>
 
 I'm a Software Development student at Mangosuthu University of Technology (MUT) with a passion for building modern mobile and web applications. I enjoy solving real-world problems through software and continuously improving my skills as a developer.
 
