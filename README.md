@@ -16,24 +16,9 @@ I'm a Software Development student at Mangosuthu University of Technology (MUT) 
 
 ## 💻 Tech Stack
 
-### Languages
-- Java
-- Dart
-- Python
-- PHP
-- SQL
-- HTML
-- CSS
-- JavaScript
-
-### Frameworks & Technologies
-- Flutter
-- Firebase
-- Git
-- GitHub
-- Android Studio
-- VS Code
-- MySQL
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,firebase,dart,java,python,php,mysql,html,css,js,git,github,vscode,androidstudio" />
+</p>
 
 ---
 
